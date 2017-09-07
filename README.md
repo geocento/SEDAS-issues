@@ -1,2 +1,2 @@
 # SEDAS-issues
-Project to track SEDAS issues
+Project to track SEDAS [issues](issues)
